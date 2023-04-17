@@ -1,0 +1,224 @@
+body {
+    overflow: hidden;
+    margin: 0;
+
+}
+
+
+h1 {
+    font-family: Crimson text;
+    font-size: 12vw;
+    font-style: italic;
+    
+}
+
+h2 {
+    font-family: 'poppins';
+    font-weight: 200;
+    font-size: 4vw;
+}
+
+p {
+    color: white;
+    font-family: 'poppins';
+    font-size: 4vw;
+}
+
+h3 {
+    font-family: 'poppins';
+    font-size: 4vw;
+    font-weight: 400;
+    letter-spacing: .4em;
+}
+
+h4 {
+    font-family: crimson text;
+    font-size: 4vw;
+    font-weight: 200;
+    letter-spacing: .08em;
+}
+
+
+.title-logo {
+    position: relative;
+    bottom: 24vw;
+    left: 20vw;
+}
+
+.sub-title-logo {
+    position: relative;
+    bottom: 34vw;
+    left: 21vw;
+}
+
+.joseph-logo {
+    position: relative;
+    top: 18vw;
+}
+
+a {
+    display: inline-block;
+    background-color: black;
+    color: white; 
+    font-family: 'Poppins'; 
+    font-size: 5vw;
+    text-decoration: none;
+    padding: 1vw 15vw;
+    border-radius: 50px;
+}
+
+.enter-button { 
+    position: relative;
+    bottom: 10vw;
+    left: 25vw;
+}
+
+.animaybe-logo { 
+    max-width: 40%;
+    position: relative;
+    top: 10vw;
+    left: 30vw;
+}
+
+.animaybe-sub {
+    position: relative;
+    top: 6vw;
+    left: 34vw;
+}
+
+.blurb {
+    position:relative;
+    top: 10vw;
+    left: 22vw;
+    padding: 0;
+    margin: 0;
+}
+
+.anime-1 {
+    display: inline-block;
+    background-color: #f5f5f5;
+    color: black; 
+    font-family: 'Poppins';
+    font-weight: 400;
+    letter-spacing: .2em; 
+    font-size: 4vw;
+    text-decoration: none;
+    padding: 2vw 15vw;
+    border-radius: 50px;
+    position: relative;
+    top: 20vw;
+    left: 22vw;
+}
+
+.anime-2 {
+    display: inline-block;
+    background-color: #f5f5f5;
+    color: black; 
+    font-family: 'Poppins';
+    font-weight: 400;
+    letter-spacing: .2em; 
+    font-size: 4vw;
+    text-decoration: none;
+    padding: 2vw 15vw;
+    border-radius: 50px;
+    position: relative;
+    top: 30vw;
+    left: 13vw;
+}
+
+.anime-3 {
+    display: inline-block;
+    background-color: #f5f5f5;
+    color: black; 
+    font-family: 'Poppins';
+    font-weight: 400;
+    letter-spacing: .2em; 
+    font-size: 4vw;
+    text-decoration: none;
+    padding: 2vw 15vw;
+    border-radius: 50px;
+    position: relative;
+    top: 40vw;
+    left: 14vw;
+}
+
+.anime-4 {
+    display: inline-block;
+    background-color: #f5f5f5;
+    color: black; 
+    font-family: 'Poppins';
+    font-weight: 400;
+    letter-spacing: .2em; 
+    font-size: 4vw;
+    text-decoration: none;
+    padding: 2vw 15vw;
+    border-radius: 50px;
+    position: relative;
+    top: 50vw;
+    left: 22vw;
+}
+
+.anime-title {
+    position: relative;
+    margin: 0;
+    top: 5vw;
+    left: 30vw;
+}
+
+.anime-title-uy {
+    position: relative;
+    margin: 0;
+    top: 5vw;
+    left: 20vw;
+}
+
+.anime-subtitle {
+    position: relative;
+    margin: 0;
+    top: 3vw;
+    left: 37vw; 
+}
+
+.find-it {
+    position: relative;
+    background-color: #f5f5f5;
+    display: inline-block;
+    text-align: center;
+    width: 60%;
+    padding: 0vw 0vw;
+    border-radius: 10px;
+    top: 8vw;
+    left: 20vw;
+
+}
+
+.container {
+    position: relative;
+    top: 15vw; 
+    height: 150vw;
+    background-color: black;
+    border-radius: 40px;
+    z-index: 50;
+}
+
+.return-button {
+    display: inline-block;
+    background-color: white;
+    color: black; 
+    font-family: 'Poppins'; 
+    font-size: 4vw;
+    text-decoration: none;
+    padding: 2vw 15vw;
+    border-radius: 50px;
+    position: relative;
+    bottom: 60vw;
+    left: 30vw;
+    z-index: 100;
+}
+
+.anime-desc { 
+    position: relative;
+    top: 12vw;
+    left: 6vw;
+    max-width: 90%;
+}
